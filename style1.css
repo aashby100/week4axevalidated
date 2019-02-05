@@ -1,0 +1,32 @@
+body{
+    background-color:#FCFAF7;
+}
+
+li{
+	text-decoration: none;
+	display:inline;
+	background-color:#cc7eb0;
+	color: white;
+  font-family:Helvetica
+}
+
+h1 {
+  font-size: 60px;
+  font-family:Helvetica
+}
+
+
+img {
+  height: 400px;
+  width: 600px;
+}
+
+p{
+  font-family: Helvetica, sans-serif;
+}
+
+a.current{
+background-color: green;
+font-size: 20px;
+
+}
